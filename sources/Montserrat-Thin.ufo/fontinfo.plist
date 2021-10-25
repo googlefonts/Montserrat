@@ -12,6 +12,8 @@
     <integer>-194</integer>
     <key>familyName</key>
     <string>Montserrat</string>
+    <key>guidelines</key>
+    <array/>
     <key>italicAngle</key>
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
@@ -67,6 +69,10 @@
       <integer>742</integer>
       <integer>745</integer>
     </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-197</integer>
