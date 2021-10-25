@@ -1,0 +1,13 @@
+buildOTF: false
+buildTTF: false
+outputDir: "../fonts"
+# both flatten and decompose filters need to be disabled otherwise the VTT hints won't compile
+# since the components will differ
+flattenComponents: false
+decomposeTransformedComponents: false
+sources:
+  - Montserrat.designspace
+  - Montserrat-Italic.designspace
+vttSources:
+  Montserrat[wght].ttf: VTT/roman-hinting.ttx
+  Montserrat-Italic[wght].ttf: VTT/italic-hinting.ttx
