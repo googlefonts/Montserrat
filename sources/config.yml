@@ -1,5 +1,3 @@
-buildOTF: false
-buildTTF: false
 outputDir: "../fonts"
 # both flatten and decompose filters need to be disabled otherwise the VTT hints won't compile
 # since the components will differ

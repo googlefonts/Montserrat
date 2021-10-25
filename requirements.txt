@@ -23,7 +23,7 @@ fontParts==0.9.11
 fontPens==0.2.4
 fonttools==4.27.1
 fs==2.4.13
--e git+git@github.com:m4rc1e/tools.git@edd66b3d3670957429f06a016c545d19feee4b2d#egg=gftools
+gftools==0.8.2
 glyphsLib==5.3.2
 idna==3.3
 itsdangerous==2.0.1
